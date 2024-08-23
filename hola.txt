@@ -1,8 +1,8 @@
 hola como estas 
 beine y vos 
-<<<<<<< HEAD
 hola como estas 
-=======
+
+Daniel Henao Corrales
+
 hola como estas giar 
 juan manuel cardenas montoya 
->>>>>>> features/j
