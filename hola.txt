@@ -1,18 +1,15 @@
 hola como estas 
-<<<<<<< HEAD
-=======
 beine y vos 
 hola como estas 
->>>>>>> e1623569dfa257f3a309b839eb8d33ac825b5045
 
 Daniel Henao
 
 hola como estas giar 
 juan manuel cardenas montoya 
 Daniel Henao Corrales
-<<<<<<< HEAD
-=======
 
 hola como estas giar 
 juan manuel cardenas montoya 
->>>>>>> e1623569dfa257f3a309b839eb8d33ac825b5045
+
+
+Juan Manuel sapo hp
